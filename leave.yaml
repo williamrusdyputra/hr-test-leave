@@ -12,3 +12,6 @@ daysOff:
     - date: "2026-02-10"
       type: "vacation"
       notes: "Family trip - Current Year"
+    - date: "2026-05-01 to 2026-05-05"
+      type: "vacation"
+      notes: "Conference - Current Year"
