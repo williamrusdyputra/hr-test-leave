@@ -1,0 +1,14 @@
+login: williamrusdyputra
+startDate: "2024-01-15"
+carryOverDays: 0
+unlockDate: null
+
+daysOff:
+  taken:
+    - date: "2025-12-25"
+      type: "holiday"
+      notes: "Christmas - Previous Year"
+  scheduled:
+    - date: "2026-02-10"
+      type: "vacation"
+      notes: "Family trip - Current Year"
